@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolp2005@gmail.com)
-[![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](mailto:gustavolp2005@gmail.com)
+[![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gustaavolp)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:gustavolp2005@gmail.com)
 
 ![Gustaavolp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustaavolp&show_icons=true&theme=radical)
