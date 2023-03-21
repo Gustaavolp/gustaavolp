@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo
+### Olá!👋 Eu sou o Gustavo 💻
 
 <div align="center">
    
