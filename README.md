@@ -1,4 +1,7 @@
+<p align="center" style="border-radius:100%"><img height="auto" width="10" src="assets/perfil-trybe-1.png!" ></p>
+
 <div align="center">
+
    
 ### Seja bem vindo 👋 Eu sou o Gustavo 💻
 <br/>
