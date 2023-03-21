@@ -1,6 +1,6 @@
 <div align="center">
    
-### Olá!👋 Eu sou o Gustavo 💻
+### Seja bem vindo 👋 Eu sou o Gustavo 💻
 
 
    
