@@ -1,4 +1,4 @@
-<p align="center" style="border-radius:100%"><img height="300" width="30%" src="01.png" ></p>
+<p align="center" style="border-radius:100%"><img height="auto" width="20%" src="01.png" ></p>
 
 <div align="center">
    
