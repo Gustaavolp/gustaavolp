@@ -1,5 +1,3 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="20%" src="01.png" ></p>
-
 <div align="center">
    
 ### Seja bem vindo 👋 Eu sou o Gustavo 💻
