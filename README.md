@@ -1,9 +1,9 @@
-<p align="center" style="border-radius:100%"><img height="auto" width="10%" src="01.png" ></p>
+<p align="center" style="border-radius:100%"><img height="300" width="30%" src="01.png" ></p>
 
 <div align="center">
-
    
 ### Seja bem vindo 👋 Eu sou o Gustavo 💻
+   
 <br/>
 
    
