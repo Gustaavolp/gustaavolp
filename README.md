@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gustaavolp)
 <!--[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustaavolp)-->
 
-![Gustaavolp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustaavolp&show_icons=true&theme=tokyonight)
+
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustaavolp&theme=tokyonight&hide_border=false&&layout=compact)
 ## 👨‍💻Estou aprendendo
